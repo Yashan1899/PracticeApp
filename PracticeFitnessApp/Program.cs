@@ -8,7 +8,7 @@ namespace PracticeFitnessApp
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello, Nick");
-           
+            int a = 4;
         }
     }
 }
