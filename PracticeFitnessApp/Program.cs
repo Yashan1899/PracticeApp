@@ -8,14 +8,7 @@ namespace PracticeFitnessApp
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello, Nick");
-            Console.WriteLine("Good morning");
-            NewMethod();
-
-
-        }
-       public static void NewMethod()
-        {
-            Console.WriteLine("Enter name:");
+           
         }
     }
 }
